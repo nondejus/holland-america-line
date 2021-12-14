@@ -1,2 +1,16 @@
 # bemoeizorg-heroin-blood-smokkelroute
-rotterdam - new york
+
+'rotterdam - new york'
+
+
+# smuggling
+https://en.wikipedia.org/wiki/Smuggling
+
+# blood
+https://en.wikipedia.org/wiki/Blood
+
+# heroin
+https://en.wikipedia.org/wiki/Heroin
+
+# clinical trial
+https://en.wikipedia.org/wiki/Clinical_trial
